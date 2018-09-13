@@ -1,3 +1,9 @@
 $ csci321-practice-1
 
-iiiafirstt
+
+ HEAD
+firstt
+
+iafirstt
+>>>>>>> master
+>>>>>>> b1

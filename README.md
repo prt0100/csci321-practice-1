@@ -1,6 +1,6 @@
 $ csci321-practice-1
 
-
+i
  HEAD
 firstt
 

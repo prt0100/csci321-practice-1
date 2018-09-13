@@ -1,4 +1,7 @@
 $ csci321-practice-1
 
+ HEAD
 firstt
-a
+
+iafirstt
+>>>>>>> master
